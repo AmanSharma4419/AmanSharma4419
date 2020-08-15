@@ -1,4 +1,6 @@
 ### Hi there 👋
+## Myself Aman Sharma Iam Mern Stack Developer My Passion Lies In Learning New Technologies
+## Iam Currently Learning And Building Stuff In Mern Stack
 
 <!--
 **AmanSharma4419/AmanSharma4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
