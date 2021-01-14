@@ -1,7 +1,10 @@
 ### Hi there 👋
- Myself Aman Sharma Iam Mern Stack Developer My Passion Lies In Learning New Technologies
- Iam Currently Learning And Building Stuff In Mern Stack
-
+ Myself Aman Sharma Iam Mern Stack Developer.
+- 🔭 I’m currently working on MERN Stack.
+- 🌱 I’m currently learning Graphql.
+- 📫 Feel free to contact me.
+Email:sharmaaman4419@gmail.com
+Contact:7807722734
 <!--
 **AmanSharma4419/AmanSharma4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
